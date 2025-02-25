@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Dummy change
 # Function to print the macOS ASCII art with blue text
 print_syswatch_ascii() {
     printf "\e[1;34m"
